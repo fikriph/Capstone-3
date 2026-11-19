@@ -42,6 +42,7 @@ Analisis ini memiliki empat tujuan utama:
 ## Dataset Overview
 
 Proyek ini menggunakan lima dataset utama yang memiliki hubungan satu sama lain.
+Dataset yang digunakan dapat diakses dari url berikut: https://drive.google.com/drive/folders/1BdjYFJAwWalQORejl2M8ahOBR7avI7Oj?usp=sharing
 
 | Dataset | Deskripsi |
 |---|---|
